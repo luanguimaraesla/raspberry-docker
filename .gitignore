@@ -1,0 +1,8 @@
+# editor
+*.swp
+*.swo
+
+# development environment
+images/*.img
+images/*.zip
+images/.prepared
